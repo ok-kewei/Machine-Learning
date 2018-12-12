@@ -1,2 +1,17 @@
-you will see the cost is close to 0, that is the cost function, asa, Mean Square Error. 
+hard code by setting x = 1,2,3,4,5 and y = 5,7,9,11,13 {i.e.: y= 2x + 3}
+
+we set y_predicted = m_curr * x + b, (that is y = mx+b) 
+cost function, mean square error function = 1/n* sum (y - y_pred)**2, 
+derivative m = 2/n sum(-x*(y-y_pred)), derivative b = -(2/n)*sum(y-y_predicted)
+update m_curr, and b_curr for each iteration: 
+m_curr = m_curr - learning_rate * derivative m 
+b_curr = b_curr - learning_rate * derivative b 
+
+objective is to get cost that is close to 0 by tuning iteration, and learning rate. 
+
 iteration set at 1000, learning rate at 0.001
+m 2.448699722825159 , b 1.3800516285429847, cost 0.47797941992396514, iteration 999
+iteration set at 1000, learning rate at 0.008
+m 2.041932999393225 , b 2.8486085669217984, cost 0.004194384603694259, iteration 999
+iteration set at 1000, learning rate at 0.01
+m 2.021281045682893 , b 2.923168672645527, cost 0.0010817613206833153, iteration 999
