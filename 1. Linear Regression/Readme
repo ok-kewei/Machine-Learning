@@ -1,0 +1,6 @@
+Linear Regression with Single Variable
+First, we uses homeprices.csv file to build a model. 
+Then to use the model we built, we importing area.csv file. 
+Prediction.csv file created by adding Price column in area.csv file, that is to predict home prices by area input that we feed it. 
+Area is independant variable, X. Price is dependant variable, Y. 
+Linear Regression algorithm, Y = MX + C, M is the linear slope and C is y-intercept, when X = 0.  
