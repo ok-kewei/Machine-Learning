@@ -1,4 +1,0 @@
-Linear Regression with Single Variable. 
-First, it uses homeprices.csv file to build model. 
-Then, use the model and predict by importing area.csv file
-Prediction file created by adding Prices column in area.csv, that is predicting the prices based on the model built. 
