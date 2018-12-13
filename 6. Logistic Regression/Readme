@@ -1,1 +1,2 @@
-desc
+This is a simple logistic regression exercise. 
+The accuracy for test set is 1.0 as the sample size is small, 27. 
