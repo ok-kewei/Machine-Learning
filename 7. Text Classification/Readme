@@ -1,1 +1,2 @@
+To predict if this is local company or not. 
 Use Naive Bayes Classification model and TfidfVectorizer
