@@ -1,2 +1,2 @@
 # Machine-Learning
-My machine learning python codes
+Repository for my machine learning python codes
