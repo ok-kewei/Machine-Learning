@@ -1,1 +1,3 @@
-desc
+There are 2 methods of encoding the categorical variable:
+1. By using Dummy
+2. By using sklearn.preprocessing import LabelEncoder, OneHotEncoder
