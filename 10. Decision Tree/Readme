@@ -1,1 +1,2 @@
-desc
+This is a simple decision tree model to predict if the employee salary is more than $100k. 
+The model accuracy is 1.0 because there is only one set of data, no seggregation of training set and test set. 
