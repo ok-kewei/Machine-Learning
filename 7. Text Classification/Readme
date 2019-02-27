@@ -1,2 +1,3 @@
 To predict if this is local company or not. 
-Use Naive Bayes Classification model and TfidfVectorizer
+Use  Naive Bayes Classification model and TfidfVectorizer
+by python scikit learn library and panda 
