@@ -1,1 +1,3 @@
-by using turicreate
+Simple Movie Recommender System
+Calculated based on a correlation based on the movie ratings.
+By using Pandas
